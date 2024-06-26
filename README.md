@@ -22,7 +22,11 @@ The main functions in this script are:
 - `multiply(x, y)`: This function multiplies two numbers.
 - `divide(x, y)`: This function divides the first number by the second number. It also handles division by zero by returning an error message.
 
-### Example
+## Main Program
+The main program runs in a loop, allowing the user to perform multiple calculations until they choose to exit.
 
-Here is an example of how the calculator works:
+## Running the Program
+To run the program, ensure you have Python installed on your machine. Save the script in a file (e.g., calculator.py) and run it using the command: python calculator.py
 
+
+This program is a simple demonstration of basic arithmetic operations in Python and can be extended or modified as needed.
